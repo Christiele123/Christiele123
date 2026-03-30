@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/bf/ae/1ebfaedde96af8e2dfd2aec94e4be03c.gif" width="40%"/>
+  <img src="https://i.pinimg.com/originals/1e/bf/ae/1ebfaedde96af8e2dfd2aec94e4be03c.gif" width="20%"/>
 </p>
 
-<h1 align="center">✨ Hi, I'm Christiele Carvalho✨</h1>
+<h1 align="center">✨ Hi, I'm Christiele Carvalho or KIKI✨</h1>
 
 <p align="center">
   🚀 Estudante de T.I | 💻 Tecnologia | 🌎 Brasil
@@ -12,8 +12,10 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Estudando: Python
-- 🎯 Objetivo: Virar um Dev até o fim do ano
+🐍 Focada em Python  
+🚀 Em constante evolução na programação  
+💡 Transformando aprendizado em projetos reais  
+🎯 Objetivo: Virar um Dev até o fim do ano
 
 ---
 
@@ -42,4 +44,3 @@
 
 <p align="center">
   ✨✨✨ Obrigado por visitar meu perfil ✨✨✨
-</p>
