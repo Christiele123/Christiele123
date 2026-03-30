@@ -24,17 +24,19 @@
 
 ## 📊 Estatísticas
 
-
-
+![stats](https://github-readme-stats.vercel.app/api?username=Christiele123)
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  📧 [seu email] <br>
-  💼 [seu linkedin]
+  <a href="mailto:christielecarvalho@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christiele-carvalho-99240a1b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 <p align="center">
