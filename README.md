@@ -24,8 +24,9 @@
 
 ## 📊 Estatísticas
 
-![stats](https://github-readme-stats.vercel.app/api?username=Christiele123)
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Christiele123&theme=tokyonight"/>
+</p>
 
 ## 📫 Contato
 
