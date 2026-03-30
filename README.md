@@ -9,7 +9,7 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/christiele123/christiele123/output/snake.svg" alt="Snake animation" />
+
 
 
 ## 🚀 Sobre mim
